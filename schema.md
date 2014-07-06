@@ -5,10 +5,13 @@
 - pass
   
 ####Pump
+- name
+- photo
 - location
 - current_status (status type)
 - last_update_time
 - notes
+- address
   
 ####Report
 - pump (foreign)
