@@ -12,6 +12,7 @@
 - last_update_time
 - notes
 - address
+- barcode
   
 ####Report
 - pump (foreign)
